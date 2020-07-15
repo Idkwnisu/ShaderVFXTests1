@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LayerDepth
+  m_Shader: {fileID: -6465566751694194690, guid: 72a7bbd075dc4a143ad2969efc908225,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_18C545FB:
+        m_Texture: {fileID: 2800000, guid: 87ddf4c5b8045d44390b81f296eb13a4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_DC26AD8E:
+        m_Texture: {fileID: 2800000, guid: 643fd74b04329c343852549b0c6401ca, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats: []
+    m_Colors:
+    - Vector3_D3CE54F9: {r: 0, g: 0, b: 1, a: 0}
+    - _Forward: {r: 0, g: 0, b: 4.66, a: 0}
